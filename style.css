@@ -150,8 +150,8 @@ button, .cancel-container{
         height: 100vh;
     }
     main-container{
-        height: 90%;
-        width: 80%;
+        height: 80%;
+        width: 275px;
         padding: 5px;
 
     }
